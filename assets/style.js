@@ -105,7 +105,7 @@ $(".name").css("font-size", namefontsize);
 
 $(".papertitle").css("color", headercolor);
 $(".papertitle").css("font-size", ptitlefontsize);
-$(".papertitle").css("font-weight", boldnormtext);
+$(".papertitle").css("font-weight", bodyfontweight);
 $(".papertitle").css("text-decoration", ptitledecoration);
 $(".papertitle").css("font-style", ptitlestyle);
 
