@@ -103,11 +103,18 @@ $(".header").css("text-decoration", headerdecoration);
 $(".name").css("color", namecolor);
 $(".name").css("font-size", namefontsize);
 
-$(".papertitle").css("color", orangecolour);
+$(".papertitle").css("color", headercolor);
 $(".papertitle").css("font-size", ptitlefontsize);
 $(".papertitle").css("font-weight", boldnormtext);
 $(".papertitle").css("text-decoration", ptitledecoration);
 $(".papertitle").css("font-style", ptitlestyle);
+
+
+$(".bullettitle").css("color", orangecolour);
+$(".bullettitle").css("font-size", ptitlefontsize);
+$(".bullettitle").css("font-weight", boldnormtext);
+$(".bullettitle").css("text-decoration", ptitledecoration);
+$(".bullettitle").css("font-style", ptitlestyle);
 
 $(".thisauthor").css("color", selfcolor);
 $(".thisauthor").css("font-weight", selfweight);
