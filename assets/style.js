@@ -103,7 +103,7 @@ $(".header").css("text-decoration", headerdecoration);
 $(".name").css("color", namecolor);
 $(".name").css("font-size", namefontsize);
 
-$(".papertitle").css("color", bluecolour);
+$(".papertitle").css("color", orangecolour);
 $(".papertitle").css("font-size", ptitlefontsize);
 $(".papertitle").css("font-weight", boldnormtext);
 $(".papertitle").css("text-decoration", ptitledecoration);
