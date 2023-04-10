@@ -116,6 +116,13 @@ $(".bullettitle").css("font-weight", boldnormtext);
 $(".bullettitle").css("text-decoration", ptitledecoration);
 $(".bullettitle").css("font-style", ptitlestyle);
 
+$(".linktitle").css("color", bluecolour);
+$(".linktitle").css("font-size", ptitlefontsize);
+$(".linktitle").css("font-weight", boldnormtext);
+$(".linktitle").css("text-decoration", ptitledecoration);
+$(".linktitle").css("font-style", ptitlestyle);
+$(".linktitle").css("text-decoration", "underline");
+
 $(".thisauthor").css("color", selfcolor);
 $(".thisauthor").css("font-weight", selfweight);
 $(".thisauthor").css("text-decoration", selfdecoration);
